@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cestocki.github.io/sitemap.html.gz
+Sitemap: https://cestocki.github.io/app/sitemap.html.gz
+Sitemap: https://cestocki.github.io/assets/sitemap.html.gz
+Sitemap: https://cestocki.github.io/css/sitemap.html.gz
+Sitemap: https://cestocki.github.io/data/sitemap.html.gz
+Sitemap: https://cestocki.github.io/includes/sitemap.html.gz
+Sitemap: https://cestocki.github.io/item/sitemap.html.gz
+Sitemap: https://cestocki.github.io/src/sitemap.html.gz
